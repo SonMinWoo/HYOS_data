@@ -36,28 +36,34 @@ The license must not place restrictions on other software that is distributed al
 No provision of the license may be predicated on any individual technology or style of interface.
 
 from Open Source Initiative
+
 https://opensource.org/osd
 
 
 
 클로즈드 소스 설명
 ------------------
-사유 소프트웨어 "\n"
+사유 소프트웨어
+
 “클로즈드 소스”라는 용어는 프로그램의 소스 코드가 공개되지 않는 “비공개 소스”와 혼동될 수 있다. 마이크로소프트의 공유 소스는 소스 코드가 공개되긴 하지만 “오픈 소스”는 아닌 예이다. 다시 말해, “클로즈드 소스”라는 용어를 “오픈 소스”의 반대 개념으로 사용한다면 “공유 소스”는 “클로즈드 소스”의 한 형태에 해당된다.
 
 from Wikipedia
 https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9C%A0_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4
 
-Closed Source "\n"
+Closed Source
+
 Closed source (or proprietary software) means computer programs whose source code is not published. The source code is not shared with the public for anyone to look at or change. Closed source is the opposite of open source.
 
-from Wikipedia "\n"
-https://simple.wikipedia.org/wiki/Closed_source "\n"
+from Wikipedia
+
+https://simple.wikipedia.org/wiki/Closed_source
+
 Most companies who sell their software for money make it closed source so people cannot easily change it or copy it for free.
 
 오픈소스 라이센스 소개
 ----------------------
 ##오픈소스 SW 개요
+
 오픈소스SW는 소스코드가 공개되어 있는 SW를 말하며, 일반적으로 자유롭게 복제/배포/수정할 수 있다.
 오픈소스SW의 대표적인 예로는 Linux 커널 및 아파치 웹서버, FireFox 웹브라우저, MySQL 등이 있다.
 전 세계적으로 오픈소스SW는 FSF(Free Software Foundation)의 자유SW(Free Software)를 포함한 넓은 의미로 사용되고 있다.
@@ -135,6 +141,7 @@ OSI는 오픈소스에 해당하는 라이선스의 최소한의 기준을 정�
 1. 공통적 준수사항
 
 ####저작권 관련 문구 유지
+
 저작권이란 표현된 결과물에 대해 발생하는 권리이며 저작물의 창작과 함께 자동적으로 부여된다. 
 SW의 경우는 소스코드에 프로그램의 이름과 개발자, 버전, 연락처 등을 포함하고 있는 경우가 많으며 이러한 것들은 저작인격권으로 보호받는다.
 오픈소스SW는 거의 대부분 소스코드 상단에 개발자 정보와 연락처 등이 기록되어 있으며 개발자 정보를 임의로 수정하거나 삭제하여서는 안된다. 
@@ -142,20 +149,24 @@ SW의 경우는 소스코드에 프로그램의 이름과 개발자, 버전, 연
 저작권 관련 문구 유지는 쉽게 판단이 가능한 사항이므로 항상 준수하여야 한다.
 
 ####제품명 중복 방지
+
 SW의 제품명은 상표권으로 보호받는다. 
 따라서 오픈소스SW의 경우에 이와 동일한 이름을 제품명이나 서비스명으로 사용하면 상표권 침해의 문제가 생기게 된다. 
 특히 유명한 오픈소스SW일수록 해당 오픈 소스SW의 이름이 상표로 등록되어 있는 경우가 많기 때문에(예: 리눅스) 더욱 조심해야 한다.
 
 ####서로 다른 라이선스의 조합
+
 SW를 작성하고자 할 경우 기존에 만들어진 코드를 재사용하거나 결합하는 경우가 많은데, 이러한 때 결합되는 각 코드의 라이선스가 서로 상충되는 경우가 있다. 
 이러한 문제를 라이선스의 양립성 (Compatibility) 문제라고 한다. 
 서로 다른 라이선스로 배포된 오픈소스SW를 결합하는 경우 반드시 두 개의 라이선스가 서로 호환되는지를 확인하여야 한다.
 
 2. 선택적 준수사항
+
 선택적 준수사항은 라이선스에 따라 다르다. 
 자세한 사항은 오픈소스 라이선스 가이드의 라이선스별 준수사항 부분(3.2)를 참고하기 바란다.
 
 [오픈소스 SW 라이선스 종합정보시스템 (OLIS)]
+
 https://olis.or.kr/olis/olisMain.do
 (>>라이선스의 종류들과 다른 자료들 추가적으로 참고)
 
