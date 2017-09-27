@@ -54,3 +54,4 @@ Closed source (or proprietary software) means computer programs whose source cod
 from Wikipedia
 https://simple.wikipedia.org/wiki/Closed_source
 Most companies who sell their software for money make it closed source so people cannot easily change it or copy it for free.
+
